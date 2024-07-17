@@ -1,5 +1,5 @@
-**E-Library
-*Welcome to E-Library, a dynamic digital platform designed for book enthusiasts and knowledge seekers. With E-Library, you can explore a vast collection of books, delve into various genres, and immerse yourself in captivating stories and informative content. The app offers easy access to e-books, audiobooks, and other digital resources, ensuring a convenient and enjoyable reading experience.
+**E-Library**
+Welcome to E-Library, a dynamic digital platform designed for book enthusiasts and knowledge seekers. With E-Library, you can explore a vast collection of books, delve into various genres, and immerse yourself in captivating stories and informative content. The app offers easy access to e-books, audiobooks, and other digital resources, ensuring a convenient and enjoyable reading experience.
 
 Features
 Vast Collection: Explore a wide range of books across various genres.
