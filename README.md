@@ -10,6 +10,15 @@
 - **Search Functionality**: Efficient search bar to find books and sections.
 - **Monthly Reports**: Automatic monthly reports sent using Celery.
 
+## Screenshots
+
+![Screenshot 2024-07-20 152153](https://github.com/user-attachments/assets/9146f1dd-bde7-42a6-8f7a-2e01d850cb45)
+![Screenshot 2024-07-20 152211](https://github.com/user-attachments/assets/f683d617-e46f-44bb-8434-9b261650537c)
+![Screenshot 2024-07-20 152134](https://github.com/user-attachments/assets/944f2a41-90ce-41dd-860b-a8d200ffca85)
+
+## Video
+Check out the video demonstration of the E-Library project here: https://drive.google.com/file/d/1NVyj2Nw5z3j_09AvWCWLDoKE5ZWKPMsi/view?usp=sharing
+
 ## Technologies Used
 
 ### Backend
